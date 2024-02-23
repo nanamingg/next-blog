@@ -11,7 +11,7 @@ const Home: NextPage = () => {
   );
 
   return (
-    <div className="bg-red-100 min-h-screen flex flex-col items-center">
+    <div className="bg-cyan-100 min-h-screen flex flex-col items-center">
       <h1 className="my-20 text-2xl font-bold">NextJS Blog</h1>
       <ul className="flex flex-col items-center gap-12">
         {posts.map((v, i) => (
