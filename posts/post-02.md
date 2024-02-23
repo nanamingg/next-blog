@@ -1,7 +1,7 @@
 ---
-title: 잘 먹고 잘 사는 법
+title: 하잉
 date: 2024-02-23
-description: 잘 먹고 잘 사는 법을 알려드립니다.
+description:
 ---
 
 ---
